@@ -12,3 +12,5 @@ PR_DESCRIPTION.md
 
 # Testnet deployment configuration
 .env.testnet
+config.bat
+node_modules
